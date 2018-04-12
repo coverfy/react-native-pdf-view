@@ -1,6 +1,6 @@
 {
   "name": "react-native-pdf-view",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "A pdf file view component for react native.",
   "main": "index.js",
   "typings": "./index.d.ts",
@@ -23,10 +23,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cnjon/react-native-pdf-view/issues"
-  },
-  "peerDependencies": {
-    "@types/react": "*",
-    "@types/react-native": "*"
   },
   "dependencies": {
     "prop-types": "^15.6.0"
